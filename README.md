@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Kateryna ⭐</h1>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=9200F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Kateryna+%E2%AD%90)](https://git.io/typing-svg)
+</div>
+
 <h3 align="center">Python Developer | Data Analyst | Applied Mathematics Student</h3>
 
 
